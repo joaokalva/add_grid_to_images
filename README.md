@@ -1,16 +1,16 @@
 # Add Grid to Images
 
-Adds a customizable grid to an image.
+Adds a customizable grid to an image which, can be helpful when drawing.
 
 Customizes # of divisions, color and thickness.
 
-# Instructions
+## Installation Instructions
 
 - Donwload and extract the files
 - Install Python 3.X
 - Install Pip
-    py -m pip install --upgrade pip
+    `py -m pip install --upgrade pip`
 - Install Pillow
-    py -m pip install --upgrade Pillow
-    
-  
+    `py -m pip install --upgrade Pillow`
+- Run the Script
+    `py add_grid_to_image.py`
