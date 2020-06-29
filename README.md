@@ -8,9 +8,14 @@ Customizes # of divisions, color and thickness.
 
 - Donwload and extract the files
 - Install Python 3.X
-- Install Pip
-    `py -m pip install --upgrade pip`
-- Install Pillow
-    `py -m pip install --upgrade Pillow`
-- Run the Script
-    `py add_grid_to_image.py`
+- Install Pip <br>
+    `py -m pip install --upgrade pip` (Windows)
+    `python3 -m pip install --upgrade pip` (Mac)
+    
+- Install Pillow <br>
+    `py -m pip install --upgrade Pillow` (Windows)
+    `python3 -m pip install --upgrade Pillow` (Mac)
+    
+- Run the Script <br>
+    `py Add_grid_to_image.py` (Windows)
+    `python3 Add_grid_to_image.py` (Mac)
